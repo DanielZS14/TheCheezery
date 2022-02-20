@@ -9,5 +9,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="accent_pink">#fe2bd0</color>
+    <color name="pink">#B60089</color>
+    <color name="gray">#262525</color>
+    <color name="pinky_price">#9E2E81</color>
 
 </resources>

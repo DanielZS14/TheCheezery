@@ -3,14 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/TheCheezery/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1465" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/TheCheezery/app/src/main/res/drawable/first_gradient.xml" value="0.2435" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/TheCheezery/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1465" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/TheCheezery/app/src/main/res/drawable/margen_imagen.xml" value="0.1465" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/TheCheezery/app/src/main/res/drawable/round_button.xml" value="0.12" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/TheCheezery/app/src/main/res/drawable/second_gradient.xml" value="0.1485" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/TheCheezery/app/src/main/res/drawable/third_gradiant.xml" value="0.12" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/TheCheezery/app/src/main/res/layout/activity_main.xml" value="0.16822916666666668" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/TheCheezery/app/src/main/res/layout/activity_main2.xml" value="0.19610507246376813" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/TheCheezery/app/src/main/res/layout/activity_menu.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/TheCheezery/app/src/main/res/layout/activity_menu.xml" value="0.33" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/TheCheezery/app/src/main/res/layout/activity_productos.xml" value="0.4278145695364238" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/TheCheezery/app/src/main/res/layout/activity_register.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/TheCheezery/app/src/main/res/layout/producto_view.xml" value="0.33" />
       </map>
     </option>
   </component>
