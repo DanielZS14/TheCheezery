@@ -5,4 +5,8 @@
     <dimen name="menu_buttons_margin">2dp</dimen>
     <dimen name="menu_buttons_text">15sp</dimen>
     <dimen name="menu_buttons_padding_v">15dp</dimen>
+    <dimen name="nombre_producto">20sp</dimen>
+    <dimen name="descripcion_producto">8sp</dimen>
+    <dimen name="precio_producto">19sp</dimen>
+    <dimen name="titulo_imagen_padding">25dp</dimen>
 </resources>
